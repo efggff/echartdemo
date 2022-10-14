@@ -4,7 +4,7 @@ Vue全家桶：Vue + VueRouter + ElementUI
 
 安装依赖：
 
-1.网络请求npm  install 
+1.网络请求npm  install echarts@4.9.0 --save
 
 2.Elementvue add element
 
